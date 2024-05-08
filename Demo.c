@@ -2,6 +2,6 @@
 {
 int main()
 {
-printf("First Program by Riya More);
+printf("First Program by Riya More");
 return 0;
 }
